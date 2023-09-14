@@ -19,30 +19,37 @@
 		<utu:NavigationBar Content="{Binding Title}" />
 
 
-        <Grid HorizontalAlignment="Center">
+        < HorizontalAlignment="Center">
             
-            <StackPanel Orientation="Vertical"  Margin="150,200" Spacing="20" >
-                <TextBlock Text="Name" FontSize="20"></TextBlock>
-                <TextBlock Text="Email Address" FontSize="20" ></TextBlock>
-                <TextBlock Text="Date of Birth" FontSize="20" ></TextBlock>
-                <TextBlock Text="Phone Number" FontSize="20" ></TextBlock>
-                <TextBlock Text="Address" FontSize="20" ></TextBlock>
-                <TextBlock Text="Website" FontSize="20"></TextBlock>
-            </StackPanel>
-
-            <StackPanel Orientation="Vertical"  Margin="350,200" Spacing="20" >
-                <TextBlock Text="Uno Platform" FontSize="20"></TextBlock>
-                <TextBlock Text="info@platform.uno" FontSize="20" ></TextBlock>
-                <TextBlock Text="13-09-2023" FontSize="20" ></TextBlock>
-                <TextBlock Text=" 1-888-926-1276" FontSize="20" ></TextBlock>
-                <TextBlock Text="215 rue St-Jacques, Suite 500 Montréal QC, H2Y 1M6" FontSize="15"></TextBlock>
-                <TextBlock Text="https://platform.uno/"></TextBlock>
-            </StackPanel>
-
-            <Button x:Name = "button1" Content = "Button" Margin = "450" Width = "100" Height = "25" />
-
-
-        </Grid>
+            
+            <!--
+            
+            <StackPanel Orientation="Vertical"  Margin="150,200" >
+                < Text="Name" FontSize="20"></>
+                <TextBlock  FontSize="20" ></TextBlock>
+                < Text="Date of Birth" ></TextBlock>
+                <TextBlock Text="" ></TextBlock>
+                <"Address" "20" ></TextBlock>
+                < FontSize="20"></TextBlock>
+            </>
+            
+d
+           
+            
+            <  Margin="350,200" Spacing="20" >
+            <  FontSize="20"></TextBlock>
+                < FontSize="20" >>
+                < Text="13-09-2023"  ></TextBlock>
+                <TextBlock  ></TextBlock>
+                < "215 rue St-Jacques, Suite 500 Montréal QC, H2Y 1M6" ="15"></>
+                <TextBlock Text=""></>
+            </StackPanel
+           
+          Margin = "450" Width = "100" Height = "25" />
+            
+        </>
+            
+            -->
       
     
 
