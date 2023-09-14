@@ -36,10 +36,10 @@
                 <TextBlock Text="13-09-2023" FontSize="20" ></TextBlock>
                 <TextBlock Text=" 1-888-926-1276" FontSize="20" ></TextBlock>
                 <TextBlock Text="215 rue St-Jacques, Suite 500 Montréal QC, H2Y 1M6" FontSize="20"></TextBlock>
-                <TextBlock Text="https://platform.uno/ FontSize-20 "></TextBlock>
+                <TextBlock Text="https://platform.uno/ " FontSize="20"></TextBlock>
             </StackPanel>
 
-            <Button x:Name = "button1" Content = "Button" Margin = "450" Width = "100" Height = "25" />
+            <Button x:Name = "button1" Content = "Button" Margin = "500" Width = "100" Height = "30" />
 
 
         </Grid>
