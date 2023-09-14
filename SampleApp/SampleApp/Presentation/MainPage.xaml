@@ -27,7 +27,7 @@
                 <TextBlock Text="Date of Birth" FontSize="20" ></TextBlock>
                 <TextBlock Text="Phone Number" FontSize="20" ></TextBlock>
                 <TextBlock Text="Address" FontSize="20" ></TextBlock>
-                <TextBlock Text="Website" FontSize="20"></TextBlock>
+                <TextBlock Text="Website" "></TextBlock>
             </StackPanel>
 
             <StackPanel Orientation="Vertical"  Margin="350,200" Spacing="20" >
